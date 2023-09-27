@@ -10,6 +10,7 @@ public class Main {
         game.setupInitialState();
         game.run();
 
+
         }
 
 }
